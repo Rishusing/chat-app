@@ -124,6 +124,7 @@ button:disabled {
     margin-left: 50px;
     margin-bottom: 16px;
     width: 300px;
+    border-buttom:2px solid red;
 }
 
 .message__name {
